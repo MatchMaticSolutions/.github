@@ -1,9 +1,3 @@
-![Match Matic Logo](https://www.matchmatic.ca/logo_v1_plain_transparent.svg)
+# .github profile repo
 
----
-
-### The Unmatched Scheduling Powerhouse for Sports Leagues
-
-We specialize in optimized scheduling services so your league can bring the competition without compromise.
-
-### [Learn More](https://matchmatic.ca)
+Edit the `profile/README.md` file to change what is displayed on the github organization's home page.
